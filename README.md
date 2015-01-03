@@ -22,6 +22,6 @@ This tutorial goes through some of the methods,packages available for data wrang
   * Supervised
 * **Links to learn more**
 
-The IPython Notebook can be [viewed here](yet to add the link).
+The IPython Notebook can be [viewed here](http://nbviewer.ipython.org/github/crazy420/Python-for-data-science/blob/master/datascience.ipynb).
 
 Go to [instructions](Link that connects to instructions to install required packages) to install necessary packages.
